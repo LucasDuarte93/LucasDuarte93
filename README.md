@@ -6,7 +6,7 @@ Atualmente estou aprendendo/aprimorando/criando projetos com HTML, CSS e inician
 
 Sou apaixonado por tecnologia e tudo que ela pode proporcionar para as pessoas, estou aqui para contribuir junto a vocês!
 
-Contato 📲
+Contato 
 ✉️ : antoniolucasduarte@icloud.com
 
 
