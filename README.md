@@ -9,6 +9,12 @@ Sou apaixonado por tecnologia e tudo que ela pode proporcionar para as pessoas, 
 Contato 
 ✉️ : antoniolucasduarte@icloud.com
 
+<div style="display:inline_block">
+  
+![LucasDuarte93 stats](https://github-readme-stats.vercel.app/api?username=LucasDuarte93&show_icons=true&theme=midnight-purple)]
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=compact)
+</div>
+  
+  
+ 
